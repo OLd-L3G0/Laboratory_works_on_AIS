@@ -17,8 +17,6 @@ pu manage.py makemigrations
 
 py manage.py createsuperuser
 
-Admin admin123@mail.com qwerty123
-
 -------------------------------------------------------
 
 ЛР 2 
